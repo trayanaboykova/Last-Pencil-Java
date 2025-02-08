@@ -5,11 +5,12 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         // Read the number as a double.
-        // TODO: Write your code here to read a double from the console
+        double number = Double.parseDouble(scanner.nextLine());
 
         // Convert and print the number to an integer.
+        int convertedNumber = (int) number;
 
-        // TODO: Write your code here to convert the double to an integer and print it out to the console
+        System.out.println(convertedNumber);
 
         scanner.close();
     }

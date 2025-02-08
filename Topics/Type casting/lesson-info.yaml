@@ -1,3 +1,6 @@
 content:
   - Theory
   - Converting and printing double values as integers
+  - Sequential conversions
+  - Rounding down a halved float value to an integer
+  - Penny for your euros
