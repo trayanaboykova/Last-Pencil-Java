@@ -45,4 +45,22 @@ The project was implemented in stages, gradually introducing new features and re
 ## 🤔 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/trayanaboykova/Last-Pencil-Game.git
+   git clone https://github.com/trayanaboykova/Last-Pencil-Java.git
+2. Open the project in your favorite Java IDE (e.g., IntelliJ IDEA).
+3. Compile and run the `Main.java` file.
+4. Play the Last Pencil game via the console!
+
+## 📈 Learning Outcomes
+
+By completing this project, I:
+
+- Strengthened my understanding of Java basics.
+- Gained experience with user input handling and validation.
+- Practiced implementing game logic using loops and conditionals.
+- Learned how to add randomness to programs using simple algorithms.
+- Refined my ability to structure and organize a project effectively.
+
+## 🌟 Acknowledgments
+
+This project was part of the **JetBrains Academy** training program, which provided step-by-step guidance and a study plan tailored to this task.
+
