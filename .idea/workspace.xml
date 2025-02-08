@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="" />
+    <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/Empty the pencil case/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/Empty the pencil case/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/src/lastpencil/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/src/lastpencil/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/test/LastPencilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/test/LastPencilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,41 +34,67 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "trayanaboykova"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;trayanaboykova&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/trayanaboykova/Last-Pencil-Java.git",
-    "accountId": "8090ca7f-88af-450a-bb22-9792dfd10d26"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/trayanaboykova/Last-Pencil-Java.git&quot;,
+    &quot;accountId&quot;: &quot;8090ca7f-88af-450a-bb22-9792dfd10d26&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Last Pencil (Java)/task/src/lastpencil/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Last Pencil (Java)/task/test/LastPencilTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2sl6rS5H7W7ADecuC7Vx304wxs3" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Edu.LearningObjectsStorageType": "SQLite",
     "Edu.Yaml.Migrate": "true",
+    "Gradle.Tests in 'Last-Pencil-Java.Last_Pencil__Java_-task.test'.executor": "Run",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lastpencil.Main" />
+      <module name="Last-Pencil-Java.Last_Pencil__Java_-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lastpencil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +104,11 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SqlInitializationState">
+    <taskDatabasesInitialized>
+      <option value="jdbc:h2:file:D:/Coding/GitHub/Last-Pencil-Java/Last Pencil (Java)/New rules/db/db" />
+    </taskDatabasesInitialized>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="" />
@@ -69,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739018012541</updated>
-      <workItem from="1739018013977" duration="16000" />
+      <workItem from="1739018013977" duration="1753000" />
     </task>
     <servers />
   </component>

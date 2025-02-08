@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LastPencilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-08T12:57:41" hostname="TRAYANA" time="0.035">
+  <properties/>
+  <testcase name="start" classname="LastPencilTest" time="0.035"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+|||||||
+Your turn!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
