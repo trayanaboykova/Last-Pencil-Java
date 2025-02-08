@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Last-Pencil-Java.iml" filepath="$PROJECT_DIR$/.idea/Last-Pencil-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Last Pencil (Java)/task/Last-Pencil-Java.Last_Pencil__Java_-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Last Pencil (Java)/task/Last-Pencil-Java.Last_Pencil__Java_-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Last Pencil (Java)/task/Last-Pencil-Java.Last_Pencil__Java_-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Last Pencil (Java)/task/Last-Pencil-Java.Last_Pencil__Java_-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Last Pencil (Java)/task/Last-Pencil-Java.Last_Pencil__Java_-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Last Pencil (Java)/task/Last-Pencil-Java.Last_Pencil__Java_-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Last-Pencil-Java.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Last-Pencil-Java.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Last-Pencil-Java.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Last-Pencil-Java.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Last-Pencil-Java.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Last-Pencil-Java.util.test.iml" />
     </modules>
   </component>
 </project>
