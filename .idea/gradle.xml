@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -16,11 +17,23 @@
             <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests" />
             <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results" />
             <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Calling myMethod  Store the Result" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Invoking Methods with Type Casting" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Prism puzzler  Boxy volume adventure" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Theory" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Converting and printing double values as integers" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Penny for your euros" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Rounding down a halved float value to an integer" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Sequential conversions" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Generate a string with 'odd' and 'even'" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

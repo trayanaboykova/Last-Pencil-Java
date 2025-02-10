@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "printSum(123, 13);"
+  - text: "printSum(123L, 88L);"
+  - text: "printSum(123L, 13);"
+  - text: "printSum(123, 88L);"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10974#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 09 Feb 2025 09:57:45 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+local_check: false
