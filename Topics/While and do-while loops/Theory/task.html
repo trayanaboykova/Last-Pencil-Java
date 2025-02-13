@@ -7,7 +7,15 @@
     // body: do something repetitive
 }</code></pre>
 <p>A loop's body can contain any correct Java statements, including conditional statements and even other loops, the latter being called nested loops.</p>
-<p>It is also possible to write an <strong>infinite loop</strong> if the condition is invariably <code class="language-java">true</code>:</p>
+<p>It is also possible to write an <strong><a class="theory-lookup not-relevant" href="/learn/step/3498" rel="noopener noreferrer nofollow" target="_blank" title="In Java, an infinite loop is a loop that keeps executing indefinitely because the condition that controls the loop never becomes false. | This can occur due to a programming error, such as forgetting to update a variable that is used in the loop's condition, or intentionally, for example, when a program needs to continuously monitor for certain events. Infinite loops can cause a program to become unresponsive or consume excessive system resources, so they should be used with caution. The while loop is an example of a pre-test loop, where the condition is tested before the loop's body is executed. If the condition is true, the loop's body is executed, and the condition is tested again. This process continues until the condition becomes false. If the condition is invariably true, it will result in an infinite loop. For example, the following loop prints integer numbers while a variable is less than 5:
+
+`int i = 0;`
+`while (i &lt; 5) {`
+ `System.out.println(i);`
+ `i++;`
+`}`
+
+Here, the value 0 is assigned to the variable i before the first execution of the loop. The condition (i &lt; 5) is tested before each execution of the loop's body. If the condition is true, the loop's body is executed, the value of i is incremented by 1, and the condition is tested again.">infinite loop</a></strong> if the condition is invariably <code class="language-java">true</code>:</p>
 <pre><code class="language-java">while (true) {
     // body: do something indefinitely
 }</code></pre>
@@ -48,7 +56,7 @@ while (i &lt; 5) {
 <p></p>
 <p></p>
 <h5 id="the-do-while-loop">The do-while loop</h5>
-<p>In the <strong>do-while</strong> loop, the body is executed first, and the condition is tested afterwards. If the condition is <code class="language-java">true</code>, statements within the block are executed again. This repeats until the condition becomes <code class="language-java">false</code>. Because <strong>do-while</strong> loops check the condition after the block is executed, the control structure is often also known as a <strong>post-test loop</strong>. In contrast to the <strong>while </strong>loop, which tests the condition before the code within the block is executed, the <strong>do-while</strong> loop is an <a class="theory-lookup not-relevant" href="/learn/step/3498" rel="noopener noreferrer nofollow" target="_blank" title="In Java, an exit-condition loop is a control structure that executes a block of code at least once and then iterates as long as a specified condition is true. | This is in contrast to an entry-condition loop, such as a while loop, which checks the condition before executing the code within the loop. A common example of an exit-condition loop is a do-while loop, which has the following basic syntax: do { // code to be executed } while (condition); In this syntax, the code within the curly braces is always executed at least once before the condition is tested.">exit-condition loop</a>. So, the code within the block is always executed at least once.</p>
+<p>In the <strong>do-while</strong> loop, the body is executed first, and the condition is tested afterwards. If the condition is <code class="language-java">true</code>, statements within the block are executed again. This repeats until the condition becomes <code class="language-java">false</code>. Because <strong>do-while</strong> loops check the condition after the block is executed, the control structure is often also known as a <strong>post-test loop</strong>. In contrast to the <strong>while </strong>loop, which tests the condition before the code within the block is executed, the <strong>do-while</strong> loop is an exit-condition loop. So, the code within the block is always executed at least once.</p>
 <p>This loop contains three parts: the <code class="language-java">do</code> keyword, a body, and <code class="language-java">while(condition)</code>:</p>
 <pre><code class="language-java">do {
     // body: do something
