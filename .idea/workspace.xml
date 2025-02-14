@@ -5,6 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Day of the week from an integer/Last-Pencil-Java.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Day of the week from an integer/Last-Pencil-Java.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Day of the week from an integer/Last-Pencil-Java.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Floor-space of the room/Last-Pencil-Java.Topics-Multiple_conditions__switch-Floor-space_of_the_room.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Floor-space of the room/Last-Pencil-Java.Topics-Multiple_conditions__switch-Floor-space_of_the_room.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Floor-space of the room/Last-Pencil-Java.Topics-Multiple_conditions__switch-Floor-space_of_the_room.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Harry Potter/Last-Pencil-Java.Topics-Multiple_conditions__switch-Harry_Potter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Harry Potter/Last-Pencil-Java.Topics-Multiple_conditions__switch-Harry_Potter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Harry Potter/Last-Pencil-Java.Topics-Multiple_conditions__switch-Harry_Potter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Removing breaks/Last-Pencil-Java.Topics-Multiple_conditions__switch-Removing_breaks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Removing breaks/Last-Pencil-Java.Topics-Multiple_conditions__switch-Removing_breaks.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Removing breaks/Last-Pencil-Java.Topics-Multiple_conditions__switch-Removing_breaks.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Statements/Last-Pencil-Java.Topics-Multiple_conditions__switch-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Statements/Last-Pencil-Java.Topics-Multiple_conditions__switch-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Statements/Last-Pencil-Java.Topics-Multiple_conditions__switch-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Theory/Last-Pencil-Java.Topics-Multiple_conditions__switch-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Theory/Last-Pencil-Java.Topics-Multiple_conditions__switch-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Theory/Last-Pencil-Java.Topics-Multiple_conditions__switch-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
@@ -202,7 +248,7 @@
       <workItem from="1739184442097" duration="59000" />
       <workItem from="1739264630590" duration="3375000" />
       <workItem from="1739464151515" duration="970000" />
-      <workItem from="1739521726484" duration="1389000" />
+      <workItem from="1739521726484" duration="1570000" />
     </task>
     <servers />
   </component>
