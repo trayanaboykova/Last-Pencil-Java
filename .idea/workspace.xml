@@ -5,6 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/A quadratic equation/Last-Pencil-Java.Topics-Functional_decomposition-A_quadratic_equation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/A quadratic equation/Last-Pencil-Java.Topics-Functional_decomposition-A_quadratic_equation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/A quadratic equation/Last-Pencil-Java.Topics-Functional_decomposition-A_quadratic_equation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/Last-Pencil-Java.Topics-Functional_decomposition-Checking_divisibility_and_printing_appropriate_strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/Last-Pencil-Java.Topics-Functional_decomposition-Checking_divisibility_and_printing_appropriate_strings.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/Last-Pencil-Java.Topics-Functional_decomposition-Checking_divisibility_and_printing_appropriate_strings.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Decomposing switch cases in Java/Last-Pencil-Java.Topics-Functional_decomposition-Decomposing_switch_cases_in_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Decomposing switch cases in Java/Last-Pencil-Java.Topics-Functional_decomposition-Decomposing_switch_cases_in_Java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Decomposing switch cases in Java/Last-Pencil-Java.Topics-Functional_decomposition-Decomposing_switch_cases_in_Java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Method createFullName/Last-Pencil-Java.Topics-Functional_decomposition-Method_createFullName.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Method createFullName/Last-Pencil-Java.Topics-Functional_decomposition-Method_createFullName.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Method createFullName/Last-Pencil-Java.Topics-Functional_decomposition-Method_createFullName.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/The main tools of functional decomposition/Last-Pencil-Java.Topics-Functional_decomposition-The_main_tools_of_functional_decomposition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/The main tools of functional decomposition/Last-Pencil-Java.Topics-Functional_decomposition-The_main_tools_of_functional_decomposition.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/The main tools of functional decomposition/Last-Pencil-Java.Topics-Functional_decomposition-The_main_tools_of_functional_decomposition.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Theory/Last-Pencil-Java.Topics-Functional_decomposition-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Theory/Last-Pencil-Java.Topics-Functional_decomposition-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Theory/Last-Pencil-Java.Topics-Functional_decomposition-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Why decompose a program/Last-Pencil-Java.Topics-Functional_decomposition-Why_decompose_a_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Why decompose a program/Last-Pencil-Java.Topics-Functional_decomposition-Why_decompose_a_program.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Why decompose a program/Last-Pencil-Java.Topics-Functional_decomposition-Why_decompose_a_program.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decomposing switch cases in Java/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decomposing switch cases in Java/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decomposing switch cases in Java/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decomposing switch cases in Java/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName/out/production/classes/Name.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/The main tools of functional decomposition/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/The main tools of functional decomposition/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/The main tools of functional decomposition/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/The main tools of functional decomposition/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
@@ -211,7 +263,7 @@
       <workItem from="1739264630590" duration="3375000" />
       <workItem from="1739464151515" duration="970000" />
       <workItem from="1739521726484" duration="1570000" />
-      <workItem from="1739623475340" duration="1010000" />
+      <workItem from="1739623475340" duration="1031000" />
     </task>
     <servers />
   </component>
