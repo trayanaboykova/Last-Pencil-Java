@@ -5,52 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Day of the week from an integer/Last-Pencil-Java.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Day of the week from an integer/Last-Pencil-Java.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Day of the week from an integer/Last-Pencil-Java.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Floor-space of the room/Last-Pencil-Java.Topics-Multiple_conditions__switch-Floor-space_of_the_room.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Floor-space of the room/Last-Pencil-Java.Topics-Multiple_conditions__switch-Floor-space_of_the_room.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Floor-space of the room/Last-Pencil-Java.Topics-Multiple_conditions__switch-Floor-space_of_the_room.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Harry Potter/Last-Pencil-Java.Topics-Multiple_conditions__switch-Harry_Potter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Harry Potter/Last-Pencil-Java.Topics-Multiple_conditions__switch-Harry_Potter.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Harry Potter/Last-Pencil-Java.Topics-Multiple_conditions__switch-Harry_Potter.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Removing breaks/Last-Pencil-Java.Topics-Multiple_conditions__switch-Removing_breaks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Removing breaks/Last-Pencil-Java.Topics-Multiple_conditions__switch-Removing_breaks.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Removing breaks/Last-Pencil-Java.Topics-Multiple_conditions__switch-Removing_breaks.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Statements/Last-Pencil-Java.Topics-Multiple_conditions__switch-Statements.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Statements/Last-Pencil-Java.Topics-Multiple_conditions__switch-Statements.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Statements/Last-Pencil-Java.Topics-Multiple_conditions__switch-Statements.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Theory/Last-Pencil-Java.Topics-Multiple_conditions__switch-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Theory/Last-Pencil-Java.Topics-Multiple_conditions__switch-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Multiple conditions  switch/Theory/Last-Pencil-Java.Topics-Multiple_conditions__switch-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
@@ -58,13 +12,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Method  main/Who is the main/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Method  main/Who is the main/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
@@ -115,6 +68,11 @@
     <setting file="file://$PROJECT_DIR$/Topics/Declaring methods/Sum of numbers in the range/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Declaring methods/Syntactically correct declarations/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Declaring methods/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/The main tools of functional decomposition/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Method  main/Creating a 'Hello, World!' program from scrambled code/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Method  main/Fixing the main method/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Method  main/Print  Hello, Java/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -126,6 +84,9 @@
     <setting file="file://$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Type casting/Converting and printing double values as integers/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Type casting/Penny for your euros/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Type casting/Rounding down a halved float value to an integer/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -150,12 +111,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main (1).executor": "Debug",
+    "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Debug",
     "Application.Main (3).executor": "Run",
     "Application.Main (4).executor": "Run",
     "Application.Main (5).executor": "Run",
     "Application.Main.executor": "Debug",
+    "Application.Name.executor": "Run",
     "Edu.LearningObjectsStorageType": "SQLite",
     "Edu.Yaml.Migrate": "true",
     "Gradle.Tests in 'Last-Pencil-Java.Last_Pencil__Java_-task.test'.executor": "Run",
@@ -173,10 +135,10 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Last-Pencil-Java.Topics-Declaring_methods-Find_the_max_of_three_numbers.main" />
+      <module name="Last-Pencil-Java.Topics-Functional_decomposition-Checking_divisibility_and_printing_appropriate_strings.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -202,28 +164,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Last-Pencil-Java.Topics-Declaring_methods-Sum_of_numbers_in_the_range.main" />
+    <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Name" />
+      <module name="Last-Pencil-Java.Topics-Functional_decomposition-Method_createFullName.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Name" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
       </set>
     </attachedChunks>
   </component>
@@ -249,6 +211,7 @@
       <workItem from="1739264630590" duration="3375000" />
       <workItem from="1739464151515" duration="970000" />
       <workItem from="1739521726484" duration="1570000" />
+      <workItem from="1739623475340" duration="1010000" />
     </task>
     <servers />
   </component>
