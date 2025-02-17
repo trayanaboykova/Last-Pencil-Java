@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The variables c and d store the same value "abc".
+  - text: The variables a and b have reference to the same value 100.
+  - text: The variables a and b store the same value 100.
+  - text: The variables c and d have reference to the same value "abc".
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5037#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 17 Feb 2025 13:33:43 UTC"
+record: -1
+selected_options:
+  - 2
+  - 3
+local_check: false

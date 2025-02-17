@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Only the second line does not work.
+  - text: Both lines work correctly.
+  - text: Both lines do not work.
+  - text: Only the first line does not work.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2264#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 17 Feb 2025 13:34:32 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false

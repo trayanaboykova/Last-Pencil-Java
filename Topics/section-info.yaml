@@ -7,3 +7,5 @@ content:
   - Method  main
   - Multiple conditions  switch
   - Functional decomposition
+  - Primitive and reference types
+  - Boolean type and operations. True and false
