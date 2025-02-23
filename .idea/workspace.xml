@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/Fair play/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/Fair play/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/Working on the gameplay/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/Working on the gameplay/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/classes/java/main/lastpencil/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/classes/java/main/lastpencil/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/classes/java/test/LastPencilTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/classes/java/test/LastPencilTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests/test/classes/LastPencilTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests/test/classes/LastPencilTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results/test/TEST-LastPencilTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results/test/TEST-LastPencilTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp/compileJava/compileTransaction/stash-dir/Main.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp/compileJava/compileTransaction/stash-dir/Main.class.uniqueId0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp/compileTestJava/compileTransaction/stash-dir/LastPencilTest.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp/compileTestJava/compileTransaction/stash-dir/LastPencilTest.class.uniqueId0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/src/lastpencil/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/src/lastpencil/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Last Pencil (Java)/task/test/LastPencilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Last Pencil (Java)/task/test/LastPencilTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Crafting a Secret Key - Transform Vowels to Unlock the Treasure/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Crafting a Secret Key - Transform Vowels to Unlock the Treasure/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Crafting a Secret Key - Transform Vowels to Unlock the Treasure/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Crafting a Secret Key - Transform Vowels to Unlock the Treasure/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Unraveling the genetic tapestry/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Unraveling the genetic tapestry/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -271,6 +235,7 @@
       <option value="jdbc:h2:file:D:/Coding/GitHub/Last-Pencil-Java/Last Pencil (Java)/Empty the pencil case/db/db" />
       <option value="jdbc:h2:file:D:/Coding/GitHub/Last-Pencil-Java/Last Pencil (Java)/Fair play/db/db" />
       <option value="jdbc:h2:file:D:/Coding/GitHub/Last-Pencil-Java/Last Pencil (Java)/New rules/db/db" />
+      <option value="jdbc:h2:file:D:/Coding/GitHub/Last-Pencil-Java/Last Pencil (Java)/The right strategy/db/db" />
       <option value="jdbc:h2:file:D:/Coding/GitHub/Last-Pencil-Java/Last Pencil (Java)/Working on the gameplay/db/db" />
     </taskDatabasesInitialized>
   </component>
@@ -292,7 +257,7 @@
       <workItem from="1739798847865" duration="1529000" />
       <workItem from="1740035700492" duration="1543000" />
       <workItem from="1740132164658" duration="4732000" />
-      <workItem from="1740293642643" duration="1759000" />
+      <workItem from="1740293642643" duration="2016000" />
     </task>
     <servers />
   </component>
