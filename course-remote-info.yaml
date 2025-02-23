@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://cogniterra.org/media/attachments/lesson/27658/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Fri, 21 Feb 2025 10:02:55 UTC"
+update_date: "Sun, 23 Feb 2025 06:54:15 UTC"
 stages:
   - id: 2005
     step: 27998
@@ -13,13 +13,13 @@ stages:
     is_completed: true
   - id: 2007
     step: 28000
-    is_completed: false
+    is_completed: true
   - id: 2008
     step: 28001
-    is_completed: false
+    is_completed: true
   - id: 2009
     step: 28002
-    is_completed: false
+    is_completed: true
 topics:
   0:
     - title: Introduction to Java
