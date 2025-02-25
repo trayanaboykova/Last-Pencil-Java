@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="" />
+    <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,6 +268,8 @@
       <workItem from="1740132164658" duration="4732000" />
       <workItem from="1740293642643" duration="2016000" />
       <workItem from="1740320864139" duration="1000" />
+      <workItem from="1740425652735" duration="3000" />
+      <workItem from="1740467685294" duration="647000" />
     </task>
     <servers />
   </component>
