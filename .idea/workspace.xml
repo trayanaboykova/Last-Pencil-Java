@@ -5,12 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22aa7e31-ddf4-4c83-b4e6-49f507cdd58a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Array/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Array/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Break and continue. Branching/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Calling methods/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Calling methods/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Calling methods/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Calling methods/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Declaring methods/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring methods/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Declaring methods/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring methods/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Defining classes/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Defining classes/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Method  main/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Method  main/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Method  main/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Method  main/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Processing strings/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Processing strings/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Type casting/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Type casting/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Type casting/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Type casting/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/While and do-while loops/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/While and do-while loops/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/While and do-while loops/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/While and do-while loops/Theory/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
@@ -73,6 +104,14 @@
     <setting file="file://$PROJECT_DIR$/Topics/Declaring methods/Sum of numbers in the range/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Declaring methods/Syntactically correct declarations/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Declaring methods/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Defining classes/A class with a single integer field/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Defining classes/Accounts/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Defining classes/Books/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Defining classes/Completing the greeting message program/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Defining classes/Missing parts/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Defining classes/Points/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Defining classes/Representing time as a class/src/Main.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Defining classes/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/A quadratic equation/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/Checking divisibility and printing appropriate strings/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/Decomposing switch cases in Java/src/Task.java" root0="FORCE_HIGHLIGHTING" />
@@ -94,6 +133,10 @@
     <setting file="file://$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Objects and their properties/Accessing fields/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Objects and their properties/Army/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Objects and their properties/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Objects and their properties/What is my age/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Primitive and reference types/Classifying Variables as Primitive or Reference in Java/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Primitive and reference types/Code with nulls/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -110,6 +153,7 @@
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/The percentage of G and C characters/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Theory/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Processing strings/Unraveling the genetic tapestry/src/Task.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Topics/Random class/Find the seed/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Type casting/Converting and printing double values as integers/src/Main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Type casting/Penny for your euros/src/Task.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Topics/Type casting/Rounding down a halved float value to an integer/src/Main.java" root0="FORCE_HIGHLIGHTING" />
@@ -233,8 +277,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
       </set>
     </attachedChunks>
   </component>
@@ -270,6 +314,7 @@
       <workItem from="1740320864139" duration="1000" />
       <workItem from="1740425652735" duration="3000" />
       <workItem from="1740467685294" duration="647000" />
+      <workItem from="1741015824721" duration="1566000" />
     </task>
     <servers />
   </component>

@@ -75,6 +75,10 @@
             <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks" />
             <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Statements" />
             <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Accessing fields" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Army" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/What is my age" />
             <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Classifying Variables as Primitive or Reference in Java" />
             <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Code with nulls" />
             <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
@@ -91,6 +95,11 @@
             <option value="$PROJECT_DIR$/Topics/Processing strings/The percentage of G and C characters" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Unraveling the genetic tapestry" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Choose a correct invocation" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Constructing a random number generator" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Find the seed" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Impossible to generate" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Theory" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Converting and printing double values as integers" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Penny for your euros" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Rounding down a halved float value to an integer" />
