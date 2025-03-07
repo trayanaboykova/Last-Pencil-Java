@@ -63,4 +63,3 @@ By completing this project, I:
 ## 🌟 Acknowledgments
 
 This project was part of the **JetBrains Academy** training program, which provided step-by-step guidance and a study plan tailored to this task.
-
